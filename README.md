@@ -6,11 +6,7 @@ This Flutter app utilizes Google ML Kit to perform image labeling and generate c
 
 ## Features
 
-![1701175135639](https://github.com/chathudilzo/google_mlkit_image_labeling_app/assets/93638679/7fac694c-5e72-46c9-a36d-a5a6f04fee11)
-![1701175135608](https://github.com/chathudilzo/google_mlkit_image_labeling_app/assets/93638679/305638b6-40fc-42dc-99b5-3c6c45fa45d1)
-![1701175135586](https://github.com/chathudilzo/google_mlkit_image_labeling_app/assets/93638679/ee78c916-e079-492d-a2fe-99e6ce011852)
-
-
+https://github.com/ashish-patil89/image_caption/blob/main/assets/preview.png
 
 - **Image Labeling:** Utilizes Google ML Kit Vision API for image labeling, providing information about objects, entities, and activities in the image.
 
